@@ -1,3 +1,5 @@
 hai iam gowtham my new git repo
 
 1st step successfuly clone done
+
+2nd pull from remote.
